@@ -13,5 +13,8 @@ Three datasets used in the paper can be donwloaded from the following links.
 
 [Levin](https://webee.technion.ac.il/people/anat.levin/papers/LevinEtalCVPR09Data.rar)
 
+# Demo
+Run demo_text_antv.m to reproduce the results on Pan dataset. Similar demos for other datasets. 
+
 # Citation
 If our work is useful for your research, please cite our paper:
