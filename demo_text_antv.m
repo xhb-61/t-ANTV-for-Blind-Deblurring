@@ -6,7 +6,7 @@ clear
 close all;
 
 addpath(genpath('cho_code'));
-addpath(genpath('tctv/'));
+addpath(genpath('t_antv/'));
 
 %% read file
 
